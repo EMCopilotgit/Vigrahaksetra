@@ -19,3 +19,6 @@
 *.log text eol=lf
 *.out text eol=lf
 *.toc text eol=lf
+
+git config core.safecrlf false
+
