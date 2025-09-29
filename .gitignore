@@ -1,0 +1,53 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Intermediate documents
+*.dvi
+*.xdv
+*.pdfsync
+
+# Glossary / index files
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+*.lof
+*.lot
+*.maf
+*.mtc*
+*.nlo
+*.nls
+*.slg
+*.slo
+*.sls
+
+# Editor / OS clutter
+*~
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Compiled PDFs (optional — keep if you want to version final outputs)
+*.pdf
+
+# Helper scripts (ignore if you don’t want them tracked)
+make_readmes.sh
