@@ -51,3 +51,19 @@ Thumbs.db
 
 # Helper scripts (ignore if you don’t want them tracked)
 make_readmes.sh
+
+E8/
+elliptic/
+fractal/
+lobachevsky/
+pAdic/
+quantum/
+spectral/
+thermo/
+migrate
+migrate.sh
+scaffold.sh
+phaseir_functions.zsh
+seed_codex.py
+README.tex
+README.md
