@@ -1,24 +1,4 @@
-# Ensure consistent line endings (LF) for text files
-*.tex text eol=lf
+*.sh text eol=lf
+*.vim text eol=lf
+*.lua text eol=lf
 *.md  text eol=lf
-*.txt text eol=lf
-
-# Treat these as text, normalize line endings
-*.sty text eol=lf
-*.cls text eol=lf
-
-# Binary files (no line ending conversion)
-*.pdf binary
-*.png binary
-*.jpg binary
-*.jpeg binary
-*.gif binary
-
-# Optional: ignore auxiliary LaTeX build artifacts
-*.aux text eol=lf
-*.log text eol=lf
-*.out text eol=lf
-*.toc text eol=lf
-
-git config core.safecrlf false
-
