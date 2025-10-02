@@ -57,8 +57,6 @@ elliptic/
 fractal/
 lobachevsky/
 pAdic/
-quantum/
-spectral/
 thermo/
 migrate
 migrate.sh
@@ -67,3 +65,8 @@ phaseir_functions.zsh
 seed_codex.py
 README.tex
 README.md
+
+# Allow spectral operators and commentary
+!phaseIR/information/spectral/*.tex
+!phaseIR/information/spectral/*.v
+!*.gitkeep
